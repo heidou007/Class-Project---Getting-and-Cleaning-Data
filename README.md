@@ -15,8 +15,9 @@
 * select variables with mean() or std() in their names
 
 # 3. Uses descriptive activity names to name the activities in the data set
-# 4. Appropriately labels the data set with descriptive activity names. 
 * already applied descriptive activity names in step 1
+
+# 4. Appropriately labels the data set with descriptive activity names. 
 * convert variable names to lowercase
 
 ## 5. Creates a second, independent tidy data set with the average of each variable for each activity and each subject. 
