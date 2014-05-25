@@ -5,7 +5,7 @@
 * add IDs of training subjects (subject_train.txt) to the left of df_train
 * merge activity names (activity_labels.txt) by "Act_label" in df_train
 * remove activity labels (y_train.txt) because we already have descriptive activity names (activity_labels.txt)
-* label subject group as "training"
+* label subject group as "Train"
 * repeat the above steps for the raw test data
 
 ## 2. Merges the training and the test sets to create one data set.
