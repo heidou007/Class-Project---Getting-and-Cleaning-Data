@@ -1,4 +1,4 @@
-1. Read in raw data and descriptive files
+# 1. Read in raw data and descriptive files
 * read in raw training data and descriptors
 * use names in features.txt to label df_train
 * add activity labels in y_train.txt to the left of df_train
